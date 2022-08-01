@@ -2,28 +2,28 @@
 <section>    
 <h3>I am currently learning: </h3>
   <ol>
-  C++ 
+  <li>C++</li>
     <ol>
-    a. Datastructures and Algorithms
-    b. Competitive Problem Solving
-    c. USACO / CS:UIL
+    <li>Datastructures and Algorithms</li>
+    <li>Competitive Problem Solving</li>
+    <li>USACO / CS:UIL</li>
     </ol>
-  Python
+  <li>Python</li>
     <ol>
-    a. Pytorch
-    b. Machine Learning / Artificial Intelligence
-      i. Elements of Statistical Learning
-    c. Django
-    d. Flask
+    <li>Pytorch</li>
+    <li>Machine Learning / Artificial Intelligence</li>
+    <li>Elements of Statistical Learning</li>
+    <li>Django</li>
+    <li>lask</li>
     </ol>
-  Web Development
+  <li>Web Development</li>
     <ol>
-    a. JavaScript
-    b. CSS / SCSS
-    c. HTML
-    d. Svelte.js
-    e. SvelteKit.js
-    f. SQL or MongoDB ==> Database storage systems
+    <li>JavaScript</li>
+    <li>CSS / SCSS</li>
+    <li>HTML</li>
+    <li>Svelte.js</li>
+    <li>SvelteKit.js</li>
+    <li>SQL or MongoDB ==> Database storage systems</li>
     </ol>
   </ol>
 </section>    
