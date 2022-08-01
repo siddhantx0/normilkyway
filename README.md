@@ -1,7 +1,5 @@
 <h1>Hi 👋 My name is Siddhant Singh</h1>
-<section>
-<h2>🌱 I’m currently learning: </h2>
-  <ol>
+I am currently learning: 
   1. C++ 
     a. Datastructures and Algorithms
     b. Competitive Problem Solving
@@ -19,8 +17,6 @@
     d. Svelte.js
     e. SvelteKit.js
     f. SQL or MongoDB ==> Database storage systems
-  </ol>
-</section>
-<h3>📫 How to reach me ... <a>normilkyway@gmail.com</a></h3>
+<h3>Reach me at: normilkyway@gmail.com</h3>
 <!--- normilkyway/normilkyway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. --->
