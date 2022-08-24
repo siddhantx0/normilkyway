@@ -28,6 +28,6 @@
   </ol>
 </section>    
 <h3>Reach me at: normilkyway@gmail.com</h3>
-[![Normilkyways's GitHub stats](https://github-readme-stats.vercel.app/api?username=normilkyway)](https://github.com/anuraghazra/github-readme-stats)
+[![Normilkyways's GitHub stats](https://github-readme-stats.vercel.app/api?normilkyway)](https://github.com/anuraghazra/github-readme-stats)
 <!--- normilkyway/normilkyway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. --->
